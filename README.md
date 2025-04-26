@@ -4,8 +4,8 @@
 <img align="right" alt="Coding" width="400" src="https://www.textures4photoshop.com/tex/thumbs/matrix-code-animation-gif-free-animated-background-716.gif">
 
 
-<h3 align="center">Passionate about crafting smart, elegant solutions.</h3>
-<h5 align="center">Open for collaboration and innovation.</h5>
+<h3 align="center">Passionate about crafting smart, elegant solutions</h3>
+<h5 align="center">Open for collaboration and innovation</h5>
 
 <h4 align="center"><em><span style="color:#6c757d;">Data Science & AI: Innovation for Tomorrow</span></em></h4>
 
