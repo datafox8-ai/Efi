@@ -1,19 +1,25 @@
+<p align="left">
+  <a href="https://github.com/datafox8-ai">
+    <img src="https://img.shields.io/github/followers/datafox8-ai?label=Follow&style=social" />
+  </a>
+  <a href="https://github.com/datafox8-ai?tab=stars">
+    <img src="https://img.shields.io/github/stars/datafox8-ai?style=social" />
+  </a>
+</p>
+
+
 <h1 align="center">Hi, I'm datafox8-ai</h1>
 <h3 align="center">✨ Data Science & AI Enthusiast ✨</h3>
 
 <img align="right" alt="Coding" width="400" src="https://www.textures4photoshop.com/tex/thumbs/matrix-code-animation-gif-free-animated-background-716.gif">
 
-
 <h3 align="center">Passionate about crafting smart, elegant solutions</h3>
-<h5 align="center">Open for collaboration and innovation</h5>
 
 <h4 align="center"><em><span style="color:#6c757d;">Data Science & AI: Innovation for Tomorrow</span></em></h4>
 
-
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=datafox8-ai&label=Profile%20views&color=0e75b6&style=flat" alt="datafox8-ai" /> </p>
 
-<h3 align="left">Connect with me:</h3>  
+<h5 align="left">Connect with me: Open for collaboration & innovation</h5>  
 <p align="left">
 </p>
 
